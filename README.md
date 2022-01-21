@@ -1,6 +1,6 @@
-- 👋 Olá, eu sou @Fillipe-Pascoall
+- 👋 Olá, eu sou @fillipe-pascoall
 - 👀 Estou interessado em programação, desenvolvimento web e tecnologias.
-- 🌱 Atualmente estou aprendendo php, já domino HTML CSS JavaScript e Bootstrap jQuery.
+- 🌱 Atualmente estou aprendendo php e MySQL, já domino HTML, CSS, JavaScript, Bootstrap e jQuery.
 - 💞️ Gostaria de participar em projetos solidários e freelancer.
 - 📫 Como me encontrar, eu vivo em Viana um município de Luanda/Angola ...
 
